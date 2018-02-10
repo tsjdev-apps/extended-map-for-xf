@@ -1,2 +1,3 @@
-# extended-maps-for-xf
-Extended Maps Control for Xamarin.Forms
+# Extended Map Control for Xamarin.Forms
+
+This is a sample app to extended the map control in a Xamarin.Forms app with bindable *PushPin* property.
