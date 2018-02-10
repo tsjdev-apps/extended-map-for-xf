@@ -53,6 +53,7 @@ namespace ExtendedMapsApp.UWP
                 rootFrame.NavigationFailed += OnNavigationFailed;
 
                 Xamarin.Forms.Forms.Init(e);
+                Xamarin.FormsMaps.Init("BING_MAPS_KEY");
 
                 if (e.PreviousExecutionState == ApplicationExecutionState.Terminated)
                 {
